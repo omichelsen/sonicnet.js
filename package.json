@@ -1,0 +1,20 @@
+{
+  "name": "sonicnet.js",
+  "version": "1.0.0",
+  "description": "sonicnet.js ===========",
+  "main": "lib/main.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omichelsen/sonicnet.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omichelsen/sonicnet.js/issues"
+  },
+  "homepage": "https://github.com/omichelsen/sonicnet.js#readme"
+}
